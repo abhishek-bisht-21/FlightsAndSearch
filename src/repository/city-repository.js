@@ -1,5 +1,4 @@
 const city = require('../models/city');
-const city = require('../models/city');
 const { City } = require('../models/index');
 
 class CityRepository{
