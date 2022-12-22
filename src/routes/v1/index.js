@@ -1,5 +1,6 @@
 const express = require('express');
 
+const {FlightMiddlewares} = require('../../middlewares/index');
 
 const CityController = require('../../controllers/city-controller');
 const FlightController = require('../../controllers/flight-controller');
